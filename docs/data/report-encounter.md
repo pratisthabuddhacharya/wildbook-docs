@@ -1,10 +1,10 @@
 # Report an encounter
 
-Under the **Submit** menu in Wildbook, there are two options: **[Report an encounter** and **[Bulk Import](bulk-import-beta.md)**. The single encounter reporting method (**Report an Encounter**), which allows for data entry in a simple, web-based form. This form supports two use cases:
+Under the **Submit** menu in Wildbook, there are two options: **[Report an encounter](report-encounter.md)** and **[Bulk Import](bulk-import-beta.md)**. The single encounter reporting method (**Report an Encounter**), which allows for data entry in a simple, web-based form. This form supports two use cases:
 
 ## Reporting an Encounter
 
-Complete the following steps to successfully submit anEencounter. These fields are the minimum requirements. Any additional data provided can assist with Detection and Identification, but will not prevent a user from uploading their Encounter.
+Complete the following steps to successfully submit an Encounter. These fields are the minimum requirements. Any additional data provided can assist with Detection and Identification, but will not prevent a user from uploading their Encounter.
 
 1. Access your Wildbook homepage.
 2. From the **Submit** menu, select **Report an Encounter**.
